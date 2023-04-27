@@ -1,0 +1,314 @@
+
+html,body{
+    margin: 0px;
+    overflow-x: hidden;
+}
+#school-name{
+    color:white;
+text-align: center;
+padding: 30px;
+}
+.name-container{
+    display: block;
+    margin-left: auto;
+    width: 80%;
+    height: 90px;
+    background-color:  #8D8CC5;
+}
+span{
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    font-size: 60px;
+    transform: translate(-50%,-50%);
+    color: white;
+}
+.image-container{
+    display: block;
+    margin-left: auto;
+    width: 80%;
+    height: 87%;
+    background: linear-gradient(rgba(24, 24, 24, 0.5),rgba(0, 0, 0, 0.5)),url(teacher-giving-an-it-class-at-school-to-a-group-of-students.jpg);
+    background-size: 100%,100%;
+    background-repeat: no-repeat;
+}
+#logo>img{
+    width: 140%;
+    height: 120%;
+    margin-bottom: -90px;
+    position: relative;
+    right: 80px;
+
+}
+#logo-head>img{
+    display: none;
+
+}
+#menu-links{
+    position: absolute;
+    bottom: -40px;
+}
+#menu-links a{
+text-decoration: none;
+color: white;
+font-size: 25px;
+}
+#menu-links a:hover{
+    font-size: 40px;
+    color:  #8D8CC5;
+}
+#menu-links>ul{
+    list-style-type: none;
+}
+#menu-links>ul>li{
+    padding: 40px;
+    position: relative;
+    top: -100px;
+}
+.menu-box{
+    height: 102.3%;
+    width: 20%;
+    background-color: #10102A;
+    position: absolute;
+    top: -5px;
+}
+#box1{
+    background-color: #10102A;
+    border-radius: 30px;
+    width: 70%;
+    height: 500px;
+    position: relative;
+    left: 230px;
+    top: 100px;
+}
+#box2{
+    background-color: #10102A;
+    border-radius: 30px;
+    width: 70%;
+    height: 500px;
+    position: relative;
+    left: 230px;
+    top: 200px;
+}
+#box3{
+    background-color: #10102A;
+    border-radius: 30px;
+    width: 70%;
+    height: 500px;
+    position: relative;
+    left: 230px;
+    top: 300px;
+}
+#box4{
+    background-color: #10102A;
+    border-radius: 30px;
+    width: 70%;
+    height: 500px;
+    position: relative;
+    left: 230px;
+    top: 400px;
+}
+.container2{
+        background-color: #8D8CC5;
+        background-size: cover;
+        width: 100%;
+        height: 500%;
+        position: relative;
+        top: -25px;
+    }
+    img{
+        border-radius: 20px;
+    }
+    .image3{
+       display: flex;
+       flex-direction: row;
+       padding: 90px;
+    }
+    .image3>img{
+        margin: 20px;
+    }
+    #image-1{
+        height: 30%;
+        width: 30%;
+
+    }
+    #image-2{
+        height: 30%;
+        width: 30%;
+
+    }
+    #image-3{
+        height: 30%;
+        width: 30%;
+
+    }
+    .image2{
+        display: flex;
+        flex-direction: row;
+        padding: 90px;
+    }
+    .image2>img{
+        margin: 100px;
+    }
+    #image-20{
+        position: relative;
+        top:30px;
+        height: 30%;
+        width: 30%;
+    }
+    #image-10{
+        height: 30%;
+        width: 30%;
+        position: relative;
+        top: -150px;
+        left: -150px;
+    }
+    .image40{
+        display: flex;
+        flex-direction: row;
+        padding: 90px;
+     }
+     .image40>img{
+         margin: 40px;
+         position: relative;
+         left: -80px;
+     }
+     #image-100{
+         height: 30%;
+         width: 30%;
+
+     }
+     #image-200{
+         height: 30%;
+         width: 30%;
+
+     }
+     #image-300{
+         height: 30%;
+         width: 30%;
+
+     }
+     #home{
+color: white;
+text-align: center;
+position: relative;
+top: 20px;
+     }
+#f1{
+color: white;
+font-size: 20px;
+position: relative;
+top: 100px;
+padding: 15px;
+}
+#i1{
+    border-radius: 20px;
+    width:30%;
+    position: relative;
+    left: 70px;
+    height: 6%;
+}
+#i2{
+    border-radius: 20px;
+    width:30%;
+    position: relative;
+    left: 110px;
+    height: 6%;
+}
+#i3{
+    border-radius: 20px;
+    width:30%;
+    position: relative;
+    left: 75px;
+    height: 6%;
+}
+#i4{
+    border-radius: 20px;
+    width:30%;
+    position: relative;
+    left: 88px;
+    height: 6%;
+}
+.image-words>p{
+    color: white;
+    position: relative;
+left: 100px;
+top: -100px;
+}
+.image-words1>p{
+    color: white;
+    position: relative;
+    top: -200px;
+    left: 350px;
+}
+.image-words2>p{
+    color: white;
+position: relative;
+    left: 600px;
+    top: -300px;
+}
+.Service-words{
+    color: white;
+    position: relative;
+    top: -350px;
+}
+.education-word{
+    color: white;
+    position: relative;
+    top: -550px;
+    left: 100px;
+    font-size: 30px;
+
+}
+.Service-words1{
+    color: white;
+    position: relative;
+    top: -720px;
+    text-align: right;
+}.home-words{
+    color: white;
+    position: relative;
+left:0px;
+top: -120px;
+}
+.home-words1{
+    color: white;
+    position: relative;
+left: -270px;
+top: -225px;
+
+}
+.home-words2{
+    color: white;
+    position: relative;
+    left: 300px;
+    top: -330px;
+}
+.footer{
+    background-color: black;
+color: white;
+position: relative;
+top: 400px;
+text-align: center;
+width: 100%;
+height: 80px;
+font-size: large;
+}
+#maps{
+    position: relative;
+    top: 400px;
+}
+#location{
+    position: relative;
+    top: 400px;
+    color:black;
+    text-align: center;
+}
+
+@media only screen and (max-width:700px){
+    #school-name{
+    color:Blue;
+    text-align: center;
+    padding: 30px;
+    margin-top:0px;
+    }
